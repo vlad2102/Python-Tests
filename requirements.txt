@@ -1,0 +1,7 @@
+pytest
+selenium
+lxml
+requests
+SQLAlchemy
+PyMySQL
+Pillow

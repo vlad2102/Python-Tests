@@ -92,14 +92,7 @@ ipython_config.py
 #Pipfile.lock
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
+__pypackages_
 
 # Environments
 .env
@@ -127,3 +120,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.idea/
